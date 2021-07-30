@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Suzan. Seja bem vindo(a)!👋
 
 <!--
-**Suzan Soares** ✨
+**Sou professora de java no Programa Edutech-Pr** ✨
